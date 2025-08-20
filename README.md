@@ -3,8 +3,11 @@
 - Minecraft
 - 🌱 I’m currently learning ...
 - java
-- 💞️ I’m looking to collaborate on ...
-- Multiple Large Plugin projects
+- html
+- Css
+- Js
+- Python
+- and a bit of swift
 - 📫 How to reach me ...
 - Discord: 1tzaspect
 - 😄 Pronouns: ...
