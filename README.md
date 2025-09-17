@@ -1,18 +1,13 @@
-- 👋 Hi, I’m @yukio546
-- 👀 I’m interested in ...
-- Minecraft
+- I’m @yukio546
 - 🌱 I’m currently learning ...
 - java
 - html
 - Css
-- Js
+- Js/x
 - Python
 - and a bit of swift
 - 📫 How to reach me ...
 - Discord: 1tzaspect
-- 😄 Pronouns: ...
-- He/him
-- ⚡ Fun fact: ...
 - im 19
 
 <!---
