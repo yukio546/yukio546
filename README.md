@@ -7,7 +7,7 @@
 - Python
 - and a bit of swift
 - 📫 How to reach me ...
-- Discord: 1tzaspect
+- Discord: srtx_yukio
 - im 19
 
 <!---
