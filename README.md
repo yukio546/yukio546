@@ -4,11 +4,13 @@
 - html
 - Css
 - Js/x
+- Ts/x
+- Electron
 - Python
 - and a bit of swift
 - 📫 How to reach me ...
 - Discord: srtx_yukio
-- im 19
+- im 20
 
 <!---
 yukio546/yukio546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
