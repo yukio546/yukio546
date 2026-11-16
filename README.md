@@ -48,11 +48,15 @@
 
 <div align="center">
 
-![Niclas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niclas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![yukio546's public GitHub stats](https://github-stats-extended.vercel.app/api?username=yukio546&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=commits,issues,contribs&show=prs_merged)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niclas&layout=compact&theme=tokyonight&hide_border=true)
+![Most-used languages in yukio546's public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=yukio546&layout=compact&theme=tokyonight&hide_border=true)
+
+[Contribution activity](https://github.com/yukio546) · [Public repositories](https://github.com/yukio546?tab=repositories) · [Pull requests](https://github.com/search?q=is%3Apr+author%3Ayukio546+is%3Apublic&type=pullrequests) · [Achievements](https://github.com/yukio546?tab=achievements)
 
 </div>
+
+Cards show public data only. Language percentages reflect repository code size, not proficiency. GitHub's native contribution graph can include anonymized private contributions when sharing is enabled.
 
 ---
 
